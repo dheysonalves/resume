@@ -2,9 +2,9 @@
 
 **Location:** Caruaru - PE - Brazil
 
-**Personal Site**: [dheysonalves.com.br](https://dheysonalves.com.br/)
+**Personal Site**: [dheysonalves.com.br](https://dheysonalvesportfolio.netlify.app/)
 
-**E-mail:** dheyson10@gmail.com
+**E-mail:** hello@dheysonalves.com.br
 
 ## About me
 
@@ -14,7 +14,7 @@ I get excited about opportunities where I'm able to work with products that impa
 
 ## Work Experience
 
-**Front-End Developer** - Zappts - May 2021 - Current
+**Front-End Developer** - Zappts - May 2021 - July 2022
 
 > I worked interacting with the development team, product team, design, and quality team in building and improving a mobile application. I participated in the development of a digital bank application from Porto Seguro with React-Native, Typescript, and state management Redux, interacting with the team in the project architecture, component structuring, bug solving, and product improvement.
 
@@ -24,7 +24,7 @@ I get excited about opportunities where I'm able to work with products that impa
 
 ## Education
 
-**Computer Science - UNIFAVIP WYDEN** - Jun 2017 - Dez 2021
+**Bachelor of Computer Science - UNIFAVIP WYDEN** - Jun 2017 - Dez 2021
 
 ## Extras
 
